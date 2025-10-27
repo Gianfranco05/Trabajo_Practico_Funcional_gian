@@ -1,6 +1,6 @@
 Trabajo Práctico de Programación Funcional con Java Streams
-Este repositorio contiene la resolución de un trabajo práctico para la materia de Programación III de la Tecnicatura Universitaria en Programación a Distancia de la UTN. El objetivo principal es aplicar los conceptos de la programación funcional en Java utilizando el API de Streams para procesar colecciones de datos de forma declarativa y eficiente.
-
+Este repositorio contiene la resolución de un trabajo práctico para la materia de Programación III de la Tecnicatura Universitaria en Programación de la UTN. 
+### Canciani Gianfranco
 
 # 📋 Descripción de los Ejercicios
 El trabajo práctico se divide en cuatro casos de estudio, cada uno con su propia clase de entidad y una serie de requerimientos para manipular una colección de objetos.
